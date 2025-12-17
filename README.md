@@ -46,10 +46,35 @@ Developed by:S Tozer Theophilus RegisterNumber:25016814
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+
+
+
+
+
+
 <img width="535" height="279" alt="SISO register RTL diagram" src="https://github.com/user-attachments/assets/402d55cf-2d93-419d-8496-6f35e14ddaea" />
 
+
+
+
+
+
+
 **TIMING DIGRAMS FOR SISO Shift Register**
+
+
+
+
 <img width="1920" height="1080" alt="SISO register waveform" src="https://github.com/user-attachments/assets/67741f55-9489-4c6c-a95e-dea25af7266f" />
 
+
+
+
+
 **RESULTS**
+
+
+
+
+
 The SISO shift register was implemented successfully in Verilog. Simulation results matched the functional table, confirming correct serial data shifting and output.
